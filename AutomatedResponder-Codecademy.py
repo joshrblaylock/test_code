@@ -149,3 +149,14 @@ def live_rep(purpose):
         print("Please hold while we connect you with a live support representative. The wait time will be between two minutes and six hours. We thank you for your patience.\n")
 
 cs_service_bot()        
+
+
+
+tictactoe = [ ['X', 'O', 'X'],
+              [ 'O', ' ', 'X'],
+              ['X','O','O']]
+
+for row in tictactoe:
+    for column in row:
+        print(column + " ", end='')
+    print()
