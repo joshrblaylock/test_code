@@ -2,7 +2,7 @@
 """
 Created on Tue May 21 14:04:27 2019
 
-@author: Black Monkey
+@author: Josh Blaylock
 """
 
 name = input("What is your name? ")
